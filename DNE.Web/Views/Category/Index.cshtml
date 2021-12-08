@@ -1,8 +1,11 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-}
-
-<h1>Index</h1>
-
+﻿<div class="card text-white">
+    <div class="card-header bg-primary">Department List</div>
+        <div class="card-body text-dark">
+            <div align="right">
+                <a asp-action="Create" asp-controller="Department" class="btn btn-info text-white"><i class="fas fa-plus"></i> &nbsp; Create</a>
+            </div>
+            @{ await Html.RenderPartialAsync("_categoryIndexTable");}
+        </div>
+    </div>
+<div>
+   
