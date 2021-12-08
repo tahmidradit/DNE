@@ -1,0 +1,11 @@
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\bin\Debug\net6.0\DNE.Core.deps.json
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\bin\Debug\net6.0\DNE.Core.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\bin\Debug\net6.0\ref\DNE.Core.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\bin\Debug\net6.0\DNE.Core.pdb
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.AssemblyInfoInputs.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.AssemblyInfo.cs
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.csproj.CoreCompileInputs.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\ref\DNE.Core.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.pdb

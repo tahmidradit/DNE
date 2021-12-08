@@ -1,0 +1,12 @@
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\bin\Debug\net6.0\DNE.Data.deps.json
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\bin\Debug\net6.0\DNE.Data.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\bin\Debug\net6.0\ref\DNE.Data.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\bin\Debug\net6.0\DNE.Data.pdb
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\obj\Debug\net6.0\DNE.Data.csproj.AssemblyReference.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\obj\Debug\net6.0\DNE.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\obj\Debug\net6.0\DNE.Data.AssemblyInfoInputs.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\obj\Debug\net6.0\DNE.Data.AssemblyInfo.cs
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\obj\Debug\net6.0\DNE.Data.csproj.CoreCompileInputs.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\obj\Debug\net6.0\DNE.Data.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\obj\Debug\net6.0\ref\DNE.Data.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Data\obj\Debug\net6.0\DNE.Data.pdb

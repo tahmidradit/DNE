@@ -1,0 +1,9 @@
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.csproj.AssemblyReference.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.AssemblyInfoInputs.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.AssemblyInfo.cs
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.csproj.CoreCompileInputs.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.RazorAssemblyInfo.cache
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\obj\Debug\net6.0\DNE.Web.RazorAssemblyInfo.cs
