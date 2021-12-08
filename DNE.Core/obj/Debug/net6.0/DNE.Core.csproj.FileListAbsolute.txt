@@ -9,3 +9,4 @@ F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.csproj.CoreCompi
 F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.dll
 F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\ref\DNE.Core.dll
 F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.pdb
+F:\Projects\.NET\GitRepo\DNE\DNE.Core\obj\Debug\net6.0\DNE.Core.csproj.AssemblyReference.cache
