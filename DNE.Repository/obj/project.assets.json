@@ -712,6 +712,16 @@
             "rid": "win"
           }
         }
+      },
+      "DNE.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DNE.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DNE.Data.dll": {}
+        }
       }
     }
   },
@@ -2131,10 +2141,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DNE.Data/1.0.0": {
+      "type": "project",
+      "path": "../DNE.Data/DNE.Data.csproj",
+      "msbuildProject": "../DNE.Data/DNE.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DNE.Data >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.0",
@@ -2172,7 +2188,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Projects\\.NET\\GitRepo\\DNE\\DNE.Data\\DNE.Data.csproj": {
+              "projectPath": "F:\\Projects\\.NET\\GitRepo\\DNE\\DNE.Data\\DNE.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

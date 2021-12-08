@@ -5,7 +5,32 @@
       "ProjectGuid": "86364bf2-25ed-41df-b056-0c4da2a894c1",
       "DisplayName": "DNE.Web",
       "ColorIndex": 0
+    },
+    "742c1207-7c46-4a30-9fb6-350ad414487d": {
+      "ProjectGuid": "742c1207-7c46-4a30-9fb6-350ad414487d",
+      "DisplayName": "DNE.Repository",
+      "ColorIndex": 1
+    },
+    "c16c08c2-e08d-4975-ac01-2ca271dccf53": {
+      "ProjectGuid": "c16c08c2-e08d-4975-ac01-2ca271dccf53",
+      "DisplayName": "DNE.Services",
+      "ColorIndex": 2
+    },
+    "228fca2e-32db-41a9-8df3-720f467fc4b8": {
+      "ProjectGuid": "228fca2e-32db-41a9-8df3-720f467fc4b8",
+      "DisplayName": "DNE.Core",
+      "ColorIndex": 3
+    },
+    "cc8d3800-f05a-46b3-a1bf-93f18a3d1762": {
+      "ProjectGuid": "cc8d3800-f05a-46b3-a1bf-93f18a3d1762",
+      "DisplayName": "DNE.Data",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }

@@ -10,3 +10,6 @@ F:\Projects\.NET\GitRepo\DNE\DNE.Repository\obj\Debug\net6.0\DNE.Repository.cspr
 F:\Projects\.NET\GitRepo\DNE\DNE.Repository\obj\Debug\net6.0\DNE.Repository.dll
 F:\Projects\.NET\GitRepo\DNE\DNE.Repository\obj\Debug\net6.0\ref\DNE.Repository.dll
 F:\Projects\.NET\GitRepo\DNE\DNE.Repository\obj\Debug\net6.0\DNE.Repository.pdb
+F:\Projects\.NET\GitRepo\DNE\DNE.Repository\bin\Debug\net6.0\DNE.Data.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Repository\bin\Debug\net6.0\DNE.Data.pdb
+F:\Projects\.NET\GitRepo\DNE\DNE.Repository\obj\Debug\net6.0\DNE.Repository.csproj.CopyComplete

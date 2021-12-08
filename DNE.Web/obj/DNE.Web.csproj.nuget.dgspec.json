@@ -89,7 +89,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\Projects\\.NET\\GitRepo\\DNE\\DNE.Data\\DNE.Data.csproj": {
+                "projectPath": "F:\\Projects\\.NET\\GitRepo\\DNE\\DNE.Data\\DNE.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
