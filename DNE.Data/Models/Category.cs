@@ -15,9 +15,16 @@ namespace DNE.Data.Models
         [Required]
         public string Name { get; set; }
 
+        [Display(Name = "Created By")]
         public string CreatedByUserId { get; set; }
+
+        [Display(Name = "Updated By")]
         public string UpdatedByUserId { get; set; }
-        public string DateCreated { get; set; }
-        public string DateUpdated { get; set; }
+
+        [Display(Name = "Date Created")]
+        public DateTime DateCreated { get; set; }
+
+        [Display(Name = "Date Updated")]
+        public DateTime DateUpdated { get; set; }
     }
 }
