@@ -564,3 +564,5 @@ F:\Projects\.NET\GitRepo\DNE\DNE.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnal
 F:\Projects\.NET\GitRepo\DNE\DNE.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 F:\Projects\.NET\GitRepo\DNE\DNE.Web\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 F:\Projects\.NET\GitRepo\DNE\DNE.Web\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\bin\Debug\net6.0\DNE.Services.dll
+F:\Projects\.NET\GitRepo\DNE\DNE.Web\bin\Debug\net6.0\DNE.Services.pdb

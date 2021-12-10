@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Lead>
+
+<div class="card text-white">
+    <div class="card-header bg-primary">Leads List</div>
+        <div class="card-body text-dark">
+            <div align="right">
+                <a asp-action="Create" asp-controller="Lead" class="btn btn-info text-white"><i class="fas fa-plus"></i> &nbsp; Create</a>
+            </div>
+            @{ await Html.RenderPartialAsync("_leadIndexTable");}
+        </div>
+    </div>
+<div>
+   
+

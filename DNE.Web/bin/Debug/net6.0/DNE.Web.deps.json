@@ -36,6 +36,7 @@
         "dependencies": {
           "DNE.Data": "1.0.0",
           "DNE.Repository": "1.0.0",
+          "DNE.Services": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.0",
           "Microsoft.AspNetCore.Identity.UI": "6.0.0",
@@ -2908,6 +2909,17 @@
         },
         "compile": {
           "DNE.Repository.dll": {}
+        }
+      },
+      "DNE.Services/1.0.0": {
+        "dependencies": {
+          "DNE.Repository": "1.0.0"
+        },
+        "runtime": {
+          "DNE.Services.dll": {}
+        },
+        "compile": {
+          "DNE.Services.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/6.0.0.0": {
@@ -5954,6 +5966,11 @@
       "sha512": ""
     },
     "DNE.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DNE.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

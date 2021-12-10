@@ -1,5 +1,4 @@
 ﻿using DNE.Data.Models;
-using DNE.Data.ViewModels;
 using DNE.Repository.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -65,7 +64,6 @@ namespace DNE.Web.Controllers
         public async Task<IActionResult> Edit(int id)
         {
             var user = await _userManager.FindByNameAsync(User.Identity.Name);
-            var userId = user.Id;
             var findById = await context.Categories.FindAsync(id);
 
             Category category = new Category()

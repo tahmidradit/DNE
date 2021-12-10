@@ -3293,6 +3293,19 @@
         "runtime": {
           "bin/placeholder/DNE.Repository.dll": {}
         }
+      },
+      "DNE.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DNE.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DNE.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DNE.Services.dll": {}
+        }
       }
     }
   },
@@ -10156,12 +10169,18 @@
       "type": "project",
       "path": "../DNE.Repository/DNE.Repository.csproj",
       "msbuildProject": "../DNE.Repository/DNE.Repository.csproj"
+    },
+    "DNE.Services/1.0.0": {
+      "type": "project",
+      "path": "../DNE.Services/DNE.Services.csproj",
+      "msbuildProject": "../DNE.Services/DNE.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "DNE.Data >= 1.0.0",
       "DNE.Repository >= 1.0.0",
+      "DNE.Services >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.0",
@@ -10208,6 +10227,9 @@
             },
             "F:\\Projects\\.NET\\GitRepo\\DNE\\DNE.Repository\\DNE.Repository.csproj": {
               "projectPath": "F:\\Projects\\.NET\\GitRepo\\DNE\\DNE.Repository\\DNE.Repository.csproj"
+            },
+            "F:\\Projects\\.NET\\GitRepo\\DNE\\DNE.Services\\DNE.Services.csproj": {
+              "projectPath": "F:\\Projects\\.NET\\GitRepo\\DNE\\DNE.Services\\DNE.Services.csproj"
             }
           }
         }

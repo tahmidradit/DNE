@@ -20,6 +20,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DNE.Data\DNE.Data.csproj" />
     <ProjectReference Include="..\DNE.Repository\DNE.Repository.csproj" />
+    <ProjectReference Include="..\DNE.Services\DNE.Services.csproj" />
   </ItemGroup>
 
 </Project>
